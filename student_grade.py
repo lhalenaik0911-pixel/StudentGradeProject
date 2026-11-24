@@ -51,3 +51,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def highest(marks):
+    return max(marks)
+
+
+def lowest(marks):
+    return min(marks)
